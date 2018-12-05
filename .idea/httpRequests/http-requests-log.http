@@ -1,0 +1,16 @@
+GET https://api.umowang.com/guides/data/fgo?jsoncallback=getguidedata&command=pets_list_all&page=1&params=&jsoncallback=getguidedata&command=pets_list_all&page=1&params=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-20T111300.200.html
+
+###
+
+GET https://api.umowang.com/guides/data/fgo?jsoncallback=getguidedata&command=pets_list_all&page=1&params=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-20T111223.200.html
+
+###
+

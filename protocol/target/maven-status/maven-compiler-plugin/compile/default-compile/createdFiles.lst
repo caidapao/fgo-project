@@ -1,0 +1,6 @@
+com\caidapao\fgo\module\servant\protocol\MPServantPageProtocol.class
+com\caidapao\fgo\module\commons\base\protocol\BusinessException.class
+com\caidapao\fgo\module\commons\ErrorCode.class
+com\caidapao\fgo\module\master\protocol\CurrMasterProtocol.class
+com\caidapao\fgo\module\commons\base\protocol\CrmResponse.class
+com\caidapao\fgo\module\commons\base\protocol\PageProtocol.class

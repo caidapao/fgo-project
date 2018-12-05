@@ -1,0 +1,6 @@
+com\caidapao\fgo\module\commons\base\repository\BaseJDBCRepository.class
+com\caidapao\fgo\module\servant\repository\ServantRepository.class
+com\caidapao\fgo\module\servant\repository\ServantJDBCRepository.class
+com\caidapao\fgo\module\servant\service\ServantService.class
+com\caidapao\fgo\module\commons\base\service\AbstractBaseService.class
+com\caidapao\fgo\module\servant\entity\Servant.class
